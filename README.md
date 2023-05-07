@@ -1,4 +1,4 @@
-#Calculadora de IMC com PHP
+# Calculadora de IMC com PHP
 
 Este é um código HTML e PHP para criar uma calculadora de Índice de Massa Corporal (IMC). O IMC é uma medida que utiliza o peso e altura de uma pessoa para avaliar se ela está com o peso ideal, abaixo ou acima do recomendado.
 
